@@ -1,6 +1,6 @@
 {
     "name": "karniv00l/sec-test-4",
-    "description": "Sec scan test 4",
+    "description": "Sec scan test-4",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "fuel/core": "~1.8",
-        "aws/aws-sdk-php": "~3.2"
+        "fuel/core": "1.8.0",
+        "aws/aws-sdk-php": "3.2.0"
     }
 }
